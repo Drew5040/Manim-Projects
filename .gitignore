@@ -1,0 +1,80 @@
+
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+*.pyo
+*.pyc
+
+# Python Virtual Environment
+venv/
+venv*/
+__venv*/
+__env*/
+.env*/
+.env.bak*/
+.env.temp*/
+pip-log.txt
+
+# Manim-related
+media/
+*.mp4
+*.mp3
+*.svg
+*.npy
+*.avi
+*.mov
+*.webm
+*.flv
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.log
+*.tex
+*.yaml
+*.yml
+*.ini
+*.json
+
+# Jupyter Notebook-related
+.ipynb_checkpoints/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.log.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
